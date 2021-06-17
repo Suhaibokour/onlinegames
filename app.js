@@ -18,8 +18,8 @@ for ( x = 1; x < svenpics; x++){
 }
 } 
 
-if(knowdota2 == "no"){alert("Then read down below to learn about it")}
-else{ alert("Then add me on steam by the name Zarakiok")} 
+// if(knowdota2 == "no"){alert("Then read down below to learn about it")}
+// else{ alert("Then add me on steam by the name Zarakiok")} 
 
 
 //Hello this is suhaib and i belive this is the theird dynamic component to finish with, thank you. 
