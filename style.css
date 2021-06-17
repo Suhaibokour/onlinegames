@@ -1,0 +1,76 @@
+body{background-color:dodgerblue ;
+margin:0px ;
+} 
+
+header{
+  background-color:aqua;
+ 
+  ;
+  height: 90px;
+}
+h1{color: green;
+  padding: 10px;
+
+  float: left;}
+
+nav{float:right;
+;
+
+}
+ul{margin-top: 30px;
+margin-right: 30px;}
+li{display: inline-block;
+padding: 5px;
+}
+
+a{text-decoration: none;
+}
+p{
+  margin: 30px;
+  color:cornsilk;
+}
+h3{margin-left: 30px;
+  color:chartreuse;
+}
+footer{
+  color:goldenrod;
+  margin: 30px;
+}
+/* 
+
+h1{}
+
+nav {}
+
+ul {}
+
+li{
+  
+  display: inline-block;
+   height: 40px;
+
+
+a{ 
+  color:white
+
+}
+
+main{}
+
+section {background-color:lightblue;}
+
+secone{}
+
+sectwo {}
+
+div{}
+
+p{}   
+
+
+
+footer{
+  color: white
+
+  
+} */
