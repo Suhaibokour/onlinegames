@@ -33,9 +33,10 @@ h3{margin-left: 30px;
   color:chartreuse;
 }
 footer{
-  color:goldenrod;
+  color:hsla(211, 100%, 70%, 0.75)
   margin: 30px;
 }
+
 /* 
 
 h1{}
